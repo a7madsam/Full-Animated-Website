@@ -1,6 +1,7 @@
 <h1>Full Animated Website</h1>
 <h2>Description</h2>
-<p>Simple Template rich with animation</br>It designed use HTML5, tailwind css and Animate on scroll library</p>
+<p>Simple Template rich with animation</br>
+It designed using HTML5, tailwind CSS, and Animate on scroll library</p>
 <h2>Preview</h2>
 <strong>Try it! : <a href="https://a7madsam.github.io/Full-Animated-Website/" target ="_blank">Animated Website</a></strong>
 </br></br>
